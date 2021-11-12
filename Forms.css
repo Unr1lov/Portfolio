@@ -1,0 +1,48 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.q {
+    height: 800px;
+    display: flex;
+}
+.w {
+    width: 50%;
+    height: 100%;
+    text-align: center;
+}
+.e {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(58, 177, 155);
+}
+.duck{
+    text-decoration: none;
+}
+.duck:hover .round {
+    background-color: rgb(80, 80, 80);
+}
+.duck:hover .link {
+color: white;
+}
+.r {
+width: 50px;
+height: 50px;
+border: gray 1px solid;
+border-radius: 50%;
+margin-right: 40px;
+}
+.link{
+    color: rgb(80, 80, 80);
+    font-size: larger; 
+    line-height: 12px;
+}
+.t {
+    line-height: 12px;
+    font-size: larger; 
+    display: flex;
+    justify-content: center;
+}
+.form {
+    text-align: center;
+    color: rgb(80, 80, 80);
+}
