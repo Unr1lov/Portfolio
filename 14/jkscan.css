@@ -1,0 +1,43 @@
+ul {
+  list-style-type: none;  
+}
+.ooo {
+color: red;
+}
+.ooo:hover {
+    font-size: 20px;
+}
+.ppp {
+    color: green;
+}
+.ppp:hover {
+    color: lime;
+}
+.ppp:focus {
+    color: maroon;
+    font-size: small;
+}
+.fff {
+    text-decoration: none;
+    color: green;
+}
+form {
+    display: flex;
+}
+input {
+    margin-left: 30px;
+}
+.ggg {
+    height: 10px;
+    width: 150px;
+}
+.hhh {
+    margin-top: -19px;
+}
+body {
+    background-color: lightgray;
+}
+.qqq {
+    text-decoration: none;
+    font-weight: 700;
+}
